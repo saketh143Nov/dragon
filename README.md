@@ -1,1 +1,4 @@
 # dragon
+green 
+red
+blue
